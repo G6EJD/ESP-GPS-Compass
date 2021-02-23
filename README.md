@@ -1,6 +1,6 @@
-# ESP8266-GPS-Compass
-A compass display using an ESP8266, TFT display and Neo6M GPS
+# ESP-GPS-Compass
+A compass display using a ESP8266 or ESP32, TFT display and Neo6M GPS
 
-The GPS recption provides speed in KPH and Knots, mph is a derived value.
+Adjust the pin mapping to suit your chosen board
 
-Choose beyween the variables mph, kph or knts to be displaed in the variabel fspeed.
+Select the units as required
